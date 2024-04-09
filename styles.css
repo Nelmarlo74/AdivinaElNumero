@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f8;
+  }
+  
+  .box {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 12px;
+    text-align: center;
+    display: flex; 
+    flex-direction: column; 
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  input[type="number"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: calc(50% - 100px);
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #0b9629de;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 120px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #0b9629de;
+  }
+  
+  #message {
+    margin-top: 20px;
+    font-weight: bold;
+    color: blue;
+  }
+  
