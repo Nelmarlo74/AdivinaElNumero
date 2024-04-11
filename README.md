@@ -1,4 +1,5 @@
 Prueba HTML, CSS y JS
+...
 
 Para esta prueba debes demostrar conocimeintos de HTML, CSS y JS un Juego de adivinar un numero.
 
